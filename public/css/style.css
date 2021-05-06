@@ -90,3 +90,37 @@ header {
   color: white;
   font-size: 30px;
 }
+li {
+  padding: 15px;
+  width: 30%;
+  height: 30%;
+  border-radius: 20px;
+}
+
+.awnings__img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 600px;
+}
+
+.awnings {
+  width: 90%;
+  height: 600px;
+}
+
+.awnings__foto {
+  width: 90%;
+  height: 600px;
+}
+
+.awnings__imagen {
+  width: 90%;
+  height: 600px;
+}
+
+.contact-right {
+  position: relative;
+  right: 1;
+}
